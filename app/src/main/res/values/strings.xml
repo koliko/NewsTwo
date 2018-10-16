@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsTwo</string>
+
+    <!-- this part is for the internet connection
+     issues-->
+
+    <string name="no_internet_connection">NO INTERNET CONNECTION.
+        CHECK IF YOUR DATA IS TURNED ON OR YOU ARE NOT ON FLIGHT MODE</string>
+    <string name="json_error_report">Unable to fetch news due to connectivity issues,
+        make sure your internet signal is ok and reload the app or contact your network admin.</string>
+    <string name="json_error_report_title">Unknown Error</string>
+</resources>
